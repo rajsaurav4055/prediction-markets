@@ -10,8 +10,6 @@ There will be two types of users of the platform:
 
 # User Stories for Bettors
 
-## Setting up to place bets
-
 **1. Registration/ Sign Up:** As a new bettor, I want to create my account by connecting to Solana wallets so that I can place bets.
 - Click on the SignUp button
 - A popup asks you to connect your wallet -> Select your preferred wallet -> Enter the password.
