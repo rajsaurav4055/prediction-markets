@@ -4,7 +4,7 @@ A decentralized platform where users can make predictions and place bets on ongo
 
 # User Types
 
-There will be two types of users of the platform:
+There will be two types of users on the platform:
 1. Admin
 2. Bettor
 
